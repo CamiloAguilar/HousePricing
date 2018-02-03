@@ -144,5 +144,5 @@ El siguiente cronograma contiene los tiempos de ejecución estimados para cada u
 
 ![cronograma](images/Cronograma_v1.0.png)
  
-Las barras marcadas en color azul oscuro demarcan las tareas principales, y las de color azul clara señalan las subtareas contenidas dentro de cada una.
+Las barras marcadas en color azul oscuro demarcan las tareas principales, y las de color azul clara señalan las tareas complementarias contenidas dentro de cada una.
 
